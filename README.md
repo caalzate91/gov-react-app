@@ -1,6 +1,8 @@
-In the project directory, you can run:
+En este proyecto, se uso Create-React-App como arquitectura Frontend en React, los componentes de Axios y Material UI para desarrollar esta app.
 
-### `npm start`
+Para poder correr este proyecto, se debe realizar de la siguiente manera:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* npm install react-scripts@2.1.8
+* npm install axios
+* npm install --save @material-ui/core
+* npm start
